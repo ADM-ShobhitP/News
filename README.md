@@ -1,1 +1,1 @@
-Switch to main instead of master
+Switch to "main branch" instead of "master".
